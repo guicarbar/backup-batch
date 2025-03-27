@@ -84,7 +84,7 @@ Os arquivos em anexo já vêm configurados com caminhos fictícios. Para editá-
 
 ## Contribuir 👍
 
-1. **Clonar projeto:**: `git clone clonehttps://github.com/guicarbar/backup-batch.git`
+1. **Clonar projeto:**: `git clone https://github.com/guicarbar/backup-batch.git`
 2. **Criar feature/branch:**: `git checkout -b feature/Nome-da-branch`
 
 
