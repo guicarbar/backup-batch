@@ -1,6 +1,4 @@
-🟢🟡🔴
-
-# Backup_Batch
+# backup-batch
 
 ## 📌 Sobre
 
@@ -78,6 +76,7 @@ Os arquivos em anexo já vêm configurados com caminhos fictícios. Para editá-
 - 3️⃣ Altere os caminhos conforme necessário.
 - 4️⃣ Salve e execute! ✅
 
----
 
-> ⚠️ **Observação**: Projetos com o sufixo *-Batch* são programas curtos em .bat para ajudar na vida dos devs.
+## Licença 📜
+
+Este projeto está sob a licença [MIT](LICENSE) License.
