@@ -2,11 +2,11 @@
 
 ## 📌 Sobre
 
-Cansado de fazer backups manualmente? Ter que selecionar os arquivos um a um, copiar e colar para outra pasta, pendrive ou HD externo? 😩
+> Cansado de fazer backups manualmente? Ter que selecionar os arquivos um a um, copiar e colar para outra pasta, pendrive ou HD externo? 😩
 
 **Aqui está a solução!** 🚀
 
-Criei uma alternativa para esse problema, um programa em .bat que automatiza todo esse processo para você. Basta dois cliques e o backup será feito sem complicações. Além disso, é possível copiar os arquivos de uma pasta de origem para várias pastas simultaneamente. 🗂️✨
+> Criei uma alternativa para esse problema, um programa em .bat que automatiza todo esse processo para você. Basta dois cliques e o backup será feito sem complicações. Além disso, é possível copiar os arquivos de uma pasta de origem para várias pastas simultaneamente. 🗂️✨
 
 
 Foram criadas três versões:
@@ -18,6 +18,11 @@ Foram criadas três versões:
 💡 Escolha a versão que mais combina com seu fluxo de trabalho e otimize seu tempo! 😃
 
 ---
+
+
+## 💻 Tecnologias
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ## 📜 Códigos para Visualização
@@ -75,6 +80,12 @@ Os arquivos em anexo já vêm configurados com caminhos fictícios. Para editá-
 - 2️⃣ Clique com o botão direito e selecione Editar.
 - 3️⃣ Altere os caminhos conforme necessário.
 - 4️⃣ Salve e execute! ✅
+
+
+## Contribuir 👍
+
+1. **Clonar projeto:**: `git clone clonehttps://github.com/guicarbar/backup-batch.git`
+2. **Criar feature/branch:**: `git checkout -b feature/Nome-da-branch`
 
 
 ## Licença 📜
